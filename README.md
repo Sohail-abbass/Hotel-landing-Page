@@ -1,2 +1,2 @@
 # Hotel-landing-Page
-Its a simple and responsive Hotel landing page website .Only focus on design no functionality.
+Its a Sleek Design, Timeless Elegance, Mobile-Ready focus on design not functionality
